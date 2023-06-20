@@ -1,7 +1,5 @@
 ## CS103BloodBank.cpp 🩸
-# BloodBank Group Project
-
-C++ 80's command line inspired Blood management record system
+# BloodBank - C++ 80's command line inspired Blood management record system
 
 “Spare only 15 minutes and save one life”
 
