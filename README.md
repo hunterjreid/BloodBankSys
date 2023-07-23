@@ -8,8 +8,10 @@
 *Credits: Paia M, Hunter R @
 Yoobee Colleges - City Road Campus*
 
-![CS103BloodBank_Report-13](https://github.com/hunterjreid/BloodBankSys/assets/62681404/99367134-143f-4875-b372-e0f0054078f6)
-![CS103BloodBank_Report-14](https://github.com/hunterjreid/BloodBankSys/assets/62681404/3b376ba7-6ae8-45c9-949b-cc3e15362140)
-![CS103BloodBank_Report-15](https://github.com/hunterjreid/BloodBankSys/assets/62681404/5f9fe42f-033d-4b6a-b501-c9523f43408e)
-![CS103BloodBank_Report-16](https://github.com/hunterjreid/BloodBankSys/assets/62681404/ea13275c-b76e-4e21-8330-4c44772e43f4)
+![dqwdqwddwqq](https://github.com/hunterjreid/BloodBankSys/assets/62681404/e43b704d-5d25-451d-abf4-ec40d07faeb1)
 
+<sub>### The Importance of Blood Donation<br><br>
+
+Blood donation is an essential part of the medical system. It helps to save lives and improve the quality of life for millions of people around the world. Every two seconds, someone needs blood. But unfortunately, not everyone is able to donate blood. Some people are ineligible due to medical conditions, while others may simply not be aware of the need for blood donation.<br><br>
+
+This code project is a great way to raise awareness of the importance of blood donation. It can also be used to educate people about the eligibility requirements for blood donation and the steps involved in the donation process. By making blood donation more accessible and convenient, this code project can help to save lives.</sub>
